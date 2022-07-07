@@ -103,5 +103,7 @@
       }
     }
   },
-  "defaultProject": "ps-demo"
+  "cli": {
+    "analytics": false
+  }
 }
